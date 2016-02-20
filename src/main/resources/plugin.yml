@@ -1,0 +1,7 @@
+name: Kits
+version: ${maven.build.version}
+main: tech.spencercolton.kits.Kits
+commands:
+  kit:
+    description: Obtain a kit.
+    permission: kits.kit
